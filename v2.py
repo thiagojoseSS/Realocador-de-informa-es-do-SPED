@@ -7,6 +7,7 @@ def campo7(linha_0200):
     try:
         tabela_campo7 = [b"00", b"01", b"02", b"03", b"04", b"05", b"06", b"07", b"08", b"09", b"10", b"99"]
 
+
         tab7 = [b"00-Mercadoria para Revenda",
                 b"01-Materia prima",
                 b"02-Embalagem",
