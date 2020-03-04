@@ -1,0 +1,12 @@
+00-Mercadoria para Revenda
+01-Metéria-prima
+02-Embalagem
+03-Produto em Processo
+04-Produto Acabado
+05-Subproduto
+06-Produto Intermediário
+07-Material de Uso e Consumo
+08-Ativo Imobilizado
+09-Serviços
+10-Outros insumos
+99-Outras
